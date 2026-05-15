@@ -21,5 +21,5 @@ Caso queira entrar em contato comigo, deixarei abaixo formas de contato:
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| **Eventhub** | Site de divulgação de eventos. | [Ver Projeto](https://drive.google.com/file/d/13xKIQ34NRWKRjHA6PyJq5LyueU7Rl-lw/view?usp=sharing) |
+| **Eventhub** | Site de divulgação de eventos. | [EventHub](https://drive.google.com/file/d/13xKIQ34NRWKRjHA6PyJq5LyueU7Rl-lw/view?usp=sharing) |
 | **Simulador 2ª Lei de Newton** | Experimento de física integrando dinâmica e automação. | [Ver Projeto](link-do-repo) |
