@@ -46,3 +46,7 @@ Caso queira entrar em contato comigo, deixarei abaixo formas de contato:
 - 📐 **Modelagem 3D:** O Blender é minha ferramenta favorita para dar vida a engrenagens e cenários complexos.
 - 🌐 **Desenvolvimento Web:** Focado em criar aplicações modernas que facilitem a conexão entre pessoas e eventos.
 - 🎞 **Criação de Vídeos:** Qualificado para trabalhos como videomaker, criação de vídeos para redes sociais.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=100&section=footer" width="100%"/>
+</div>
