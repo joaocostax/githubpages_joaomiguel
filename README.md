@@ -48,5 +48,5 @@ Caso queira entrar em contato comigo, deixarei abaixo formas de contato:
 - 🎞 **Criação de Vídeos:** Qualificado para trabalhos como videomaker, criação de vídeos para redes sociais.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=100&section=footer" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!;Desenvolvido+com+caf%C3%A9+e+c%C3%B3digo;Focado+em+Engenharia+de+Software" alt="Typing SVG" />
 </div>
