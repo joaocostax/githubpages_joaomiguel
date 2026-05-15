@@ -1,15 +1,15 @@
-# 👩🏻‍💻 João Miguel
+# 👩🏻‍💻 Larissa Kich
 
-**`Desenvolvedor`**
+**`Desenvolvedora FullStack`**
 
-Me chamo João Miguel, tenho 19 anos e sou de Brasilia- DF. Concluí o ensino médio no CEM5. Atualmente, estou cursando Engenharia de Software na uniCEUB. Gosto de tecnologia e busco entender ainda mais sobre a área, já que sou novo nela. caso queira entrar em contato, acesse meu "[Linkedin](https://www.linkedin.com/in/jo%C3%A3o-miguel-andrade-da-costa-35b2633b7/)", e também através do Instagram, com o perfil chamado "[jm.andradess](https://www.instagram.com/jm.andradess/)".
+Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
 <p align="left">
-    <a href="https://sites.google.com/view/portflio-de-joo-miguel/in%C3%ADcio">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
-            alt="Meu Portfólio" 
-            title="Meu Portfólio" 
-            src="[http://schema.org/WebPage" id="yDmH0d" css="yDmH0d"><div jscontroller="pc62j" jsmodel="iTeaXe" jsaction="rcuQ6b:WYd;GvneHb:og1FDd;vbaUQc:uAM5ec;"><div jscontroller="X4BaPc]"
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://sites.google.com/view/portflio-de-joo-miguel/in%C3%ADcio"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
