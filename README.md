@@ -19,7 +19,12 @@ Caso queira entrar em contato comigo, deixarei abaixo formas de contato:
 
 ## 📂 Projetos em Destaque
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :--- |
-| **Eventhub** | Site de divulgação de eventos. | [EventHub](https://drive.google.com/file/d/13xKIQ34NRWKRjHA6PyJq5LyueU7Rl-lw/view?usp=sharing) |
-| **Engrenagem** | Modelagem 3D de uma engrenagem no Blender. | [Engrenagem](https://drive.google.com/file/d/1zk1a74jDyY62wqcx0S2QG16gy0EX8NwL/view?usp=sharing) |
+### 🌐 EventHub
+> Site interativo de divulgação e gestão de eventos diversos.
+[![Ver Projeto](https://img.shields.io/badge/Acessar_Projeto-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/13xKIQ34NRWKRjHA6PyJq5LyueU7Rl-lw/view?usp=sharing)
+
+<br>
+
+### ⚙️ Modelagem de Engrenagem
+> Modelagem 3D detalhada realizada no software Blender.
+[![Ver Modelagem](https://img.shields.io/badge/Ver_Modelagem_3D-EB670F?style=for-the-badge&logo=blender&logoColor=white)](https://drive.google.com/file/d/1zk1a74jDyY62wqcx0S2QG16gy0EX8NwL/view?usp=sharing)
