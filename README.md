@@ -2,12 +2,7 @@
 
 **`Desenvolvedor`**
 
-## 🎓 Formação Acadêmica
-
-* **Engenharia de Software** — UniCEUB (Brasília, DF)
-    * *Previsão de Conclusão: 202X*
-    * Foco em: Desenvolvimento de Sistemas, Algoritmos e Arquitetura de Software.
-* **Ensino Médio** — CEM 05
+![Status](https://img.shields.io/badge/Status-Estudando_Engenharia-brightgreen?style=for-the-badge)
 
 ============================================================================================
 
