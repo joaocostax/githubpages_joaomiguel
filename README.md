@@ -41,4 +41,8 @@ Caso queira entrar em contato comigo, deixarei abaixo formas de contato:
 
 <br>
 
+## (Interesses)
 
+- 📐 **Modelagem 3D:** O Blender é minha ferramenta favorita para dar vida a engrenagens e cenários complexos.
+- 🌐 **Desenvolvimento Web:** Focado em criar aplicações modernas que facilitem a conexão entre pessoas e eventos.
+- 🎞 **Criação de Vídeos:** Qualificado para trabalhos como videomaker, criação de vídeos para redes sociais.
