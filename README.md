@@ -2,13 +2,13 @@
 
 **`Desenvolvedor`**
 
-Me chamo João Miguel, tenho 19 anos e sou de Brasilia- DF. Concluí o ensino médio no CEM5. Atualmente, estou cursando Engenharia de Software na uniCEUB. Gosto de tecnologia e busco entender ainda mais sobre a área, já que sou novo nela. caso queira entrar em contato, acesse meu "[Linkedin](https://www.linkedin.com/in/jo%C3%A3o-miguel-andrade-da-costa-35b2633b7/)", e também através do Instagram, com o perfil chamado "[jm.andardess](https://www.instagram.com/jm.andradess/)".
+Me chamo João Miguel, tenho 19 anos e sou de Brasilia- DF. Concluí o ensino médio no CEM5. Atualmente, estou cursando Engenharia de Software na uniCEUB. Gosto de tecnologia e busco entender ainda mais sobre a área, já que sou novo nela. caso queira entrar em contato, acesse meu "[Linkedin](https://www.linkedin.com/in/jo%C3%A3o-miguel-andrade-da-costa-35b2633b7/)", e também através do Instagram, com o perfil chamado "[jm.andradess](https://www.instagram.com/jm.andradess/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://sites.google.com/view/portflio-de-joo-miguel/in%C3%ADcio">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Meu Portfólio" 
+            title="Meu Portfólio" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
