@@ -19,6 +19,8 @@ Caso queira entrar em contato comigo, deixarei abaixo formas de contato:
 
 ============================================================================================
 
+> "Transformando lógica em soluções e designs em realidade através da Engenharia de Software."
+
 ## 📂 Projetos em Destaque
 
 ### 🌐 EventHub
