@@ -15,3 +15,4 @@ Caso queira entrar em contato comigo, deixarei abaixo formas de contato:
 [![Meu Portfolio](https://img.shields.io/badge/%20Portfolio-4285F4?style=for-the-badge&logo=stars&logoColor=white)](https://sites.google.com/view/portflio-de-joo-miguel/in%C3%ADcio)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmacosta2007@gmail.com)
 
+============================================================================================
