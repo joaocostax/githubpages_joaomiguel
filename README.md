@@ -31,8 +31,8 @@ Caso queira entrar em contato comigo, deixarei abaixo formas de contato:
 > Composição de imagem fictícia feita em validação de curso.
 [![Ver Projeto](https://img.shields.io/badge/Acessar_Projeto-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/1BCqx954c-QgqvsWjs7yHjHwBrKfpEn4U/view?usp=sharing)
 
-### 🌐 Robô
-> Robô animado em GIF de um projeto feito no After Effects.
-[![Ver Projeto](https://img.shields.io/badge/Acessar_Projeto-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/1SKgVtenBrtD_JKtMU7W1iC3LFHQOlJzS/view?usp=sharing)
+### ⚙️ Modelagem de Engrenagem
+> Modelagem 3D detalhada realizada no software Blender.
+[![Ver Modelagem](https://img.shields.io/badge/Ver_Modelagem_3D-EB670F?style=for-the-badge&logo=blender&logoColor=white)](https://drive.google.com/file/d/1WCY5zjL-6nSYYUewVAuN31intpTxQ_lx/view?usp=sharing)
 
 <br>
