@@ -16,3 +16,10 @@ Caso queira entrar em contato comigo, deixarei abaixo formas de contato:
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmacosta2007@gmail.com)
 
 ============================================================================================
+
+## 📂 Projetos em Destaque
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :--- |
+| **Eventhub** | Site de divulgação de eventos. | [Ver Projeto](https://drive.google.com/file/d/13xKIQ34NRWKRjHA6PyJq5LyueU7Rl-lw/view?usp=sharing) |
+| **Simulador 2ª Lei de Newton** | Experimento de física integrando dinâmica e automação. | [Ver Projeto](link-do-repo) |
