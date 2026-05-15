@@ -9,7 +9,7 @@ Me chamo João Miguel, tenho 19 anos e sou de Brasilia- DF. Concluí o ensino m�
         <img 
             alt="Meu Portfólio" 
             title="Meu Portfólio" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Meu Portfólio&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="[https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=MeuPortfolio&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630](http://schema.org/WebPage" id="yDmH0d" css="yDmH0d"><div jscontroller="pc62j" jsmodel="iTeaXe" jsaction="rcuQ6b:WYd;GvneHb:og1FDd;vbaUQc:uAM5ec;"><div jscontroller="X4BaPc)"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
