@@ -11,9 +11,3 @@ Caso queira entrar em contato comigo, deixarei abaixo formas de contato:
 [![Meu Portfolio](https://img.shields.io/badge/%20Portfolio-4285F4?style=for-the-badge&logo=stars&logoColor=white)](https://sites.google.com/view/portflio-de-joo-miguel/in%C3%ADcio)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmacosta2007@gmail.com)
 
-## 📄 Visualizar PDF Completo
-
-<iframe src="./assets/meu-curriculo.pdf" width="100%" height="600px" style="border: none;">
-    <p>Seu navegador não suporta a visualização de PDFs. 
-    <a href="./assets/meu-curriculo.pdf">Clique aqui para baixar o PDF.</a></p>
-</iframe>
