@@ -2,6 +2,13 @@
 
 **`Desenvolvedor`**
 
+## 🎓 Formação Acadêmica
+
+* **Engenharia de Software** — UniCEUB (Brasília, DF)
+    * *Previsão de Conclusão: 202X*
+    * Foco em: Desenvolvimento de Sistemas, Algoritmos e Arquitetura de Software.
+* **Ensino Médio** — CEM 05
+
 ============================================================================================
 
 Me chamo João Miguel Andrade, tenho 19 anos e sou de Brasilia- DF. Concluí o ensino médio no CEM05 e atualmente, estou cursando Engenharia de Software na UniCEUB. Gosto de tecnologia e espero aprimorar meu conhecimentos nessa área. 
@@ -36,3 +43,5 @@ Caso queira entrar em contato comigo, deixarei abaixo formas de contato:
 [![Ver Modelagem](https://img.shields.io/badge/Ver_Modelagem_3D-EB670F?style=for-the-badge&logo=blender&logoColor=white)](https://drive.google.com/file/d/1WCY5zjL-6nSYYUewVAuN31intpTxQ_lx/view?usp=sharing)
 
 <br>
+
+
