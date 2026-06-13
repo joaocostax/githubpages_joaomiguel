@@ -2,6 +2,11 @@
 
 **`Desenvolvedor`**
 
+# Portfólio Web - Projeto desenvolvido durante a disciplina de Bootcamp do primeiro período de Engenharia de Software no CEUB.
+🚀 Tecnologias Utilizadas
+HTML5
+CSS3
+
 ![Status](https://img.shields.io/badge/Status-Estudando_Engenharia_de_Software-brightgreen?style=for-the-badge)
 
 ============================================================================================
