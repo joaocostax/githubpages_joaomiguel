@@ -2,6 +2,7 @@
 
 **`Desenvolvedor`**
 
+
 ![Status](https://img.shields.io/badge/Status-Estudando_Engenharia_de_Software-brightgreen?style=for-the-badge)
 
 ============================================================================================
